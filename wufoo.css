@@ -87,6 +87,10 @@ form li {
     padding: 6px 0 9px 0;
 }
 
+form li.error {
+    padding: 6px 1% 9px 1%;
+}
+
 form li.buttons {
     padding: 10px 0 10px 0;
 }
