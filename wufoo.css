@@ -90,3 +90,7 @@ form li {
 form li.buttons {
     padding: 10px 0 10px 0;
 }
+
+.wufoo .submit {
+    margin-bottom: 0;
+}
