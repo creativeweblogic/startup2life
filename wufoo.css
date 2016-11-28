@@ -4,7 +4,7 @@
  URL : http://www.startup2life.com
  Last Updated : November 28, 2016
 - - - - - - - - - - - - - - - - - - - - - */
-html { background: #FFFFFF }
+html { background-color: #FFFFFF !important; }
 
 body {
     margin: 0 0 0 0;
