@@ -82,3 +82,7 @@ form.wufoo {padding: 0 !important; margin: 0 !important;}
 form li {
     padding: 6px 0 9px 0;
 }
+
+form li.buttons {
+    padding: 10px 0 10px 0;
+}
