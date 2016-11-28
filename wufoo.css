@@ -4,6 +4,7 @@
  URL : http://www.startup2life.com
  Last Updated : November 28, 2016
 - - - - - - - - - - - - - - - - - - - - - */
+html { background: #FFFFFF }
 
 /* Logo */
 #logo {
@@ -19,7 +20,7 @@
 /* Backgrounds */
 html{background-image:none;background-color:#99cc00}
 #logo{background-image:none;background-color:#669900}
-#container{background:#FFFFFF}
+#container{background:#FFFFFF; border: 0; box-shadow: none}
 .wufoo input.text, .wufoo textarea.textarea{background:#FFFFFF url(/images/fieldbg.gif) repeat-x top}
 .wufoo .focused{background: transparent}
 .wufoo .instruct{background-color:#F5F5F5}
