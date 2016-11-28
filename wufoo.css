@@ -78,3 +78,7 @@ form.wufoo {padding: 0 !important; margin: 0 !important;}
 .wufoo li.focused {
      background: transparent !important;
 }
+
+form li {
+    padding: 6px 0 9px 0;
+}
